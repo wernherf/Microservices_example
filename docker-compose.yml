@@ -27,4 +27,4 @@ services:
       context: mymicroservice
       dockerfile: Dockerfile
     ports: 
-      - "3000:80"
+      - "5032:80"
